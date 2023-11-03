@@ -11,7 +11,7 @@
 
 [ Anita  ] https://github.com/TwilioDevEd/appointment-reminders-flask
 
-[Brianna] https://github.com/hobrien17/mediroo
+[ Brianna ]  https://github.com/hobrien17/mediroo
 
 # Sprint 2
 
